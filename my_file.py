@@ -5,4 +5,4 @@ def hi_there():
     print('Hy Damian')
 
 def hi_there():
-    print('Hy Damian')
+    print('Update func with merge conflict')
