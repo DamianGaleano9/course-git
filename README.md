@@ -1,7 +1,7 @@
 #My Git Project is here!!!!!
 
 
->Initial code for my app
+>My innocent change for the conflict
 
 ## I'm in the feature branch
 
