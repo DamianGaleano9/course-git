@@ -2,7 +2,6 @@
 
 
 >My innocent change for the conflict
->My first merge conflict
 
 ## I'm in the feature branch
 
@@ -15,8 +14,3 @@
 >Changes made from pull
 
 >One more change
-
-
->One
->Two
->Three
