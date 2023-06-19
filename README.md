@@ -1,11 +1,8 @@
 #My Git Project is here!!!!!
 
 
-<<<<<<< HEAD
->My innocent change for the conflict
-=======
+
 >My first merge conflict
->>>>>>> origin/main
 
 ## I'm in the feature branch
 
@@ -18,3 +15,5 @@
 >Changes made from pull
 
 >One more change
+
+>Some Changes in this file but i want to remove this
