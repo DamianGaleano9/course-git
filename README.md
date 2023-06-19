@@ -1,11 +1,8 @@
 #My Git Project is here!!!!!
 
 
-<<<<<<< HEAD
 >My innocent change for the conflict
-=======
 >My first merge conflict
->>>>>>> origin/main
 
 ## I'm in the feature branch
 
